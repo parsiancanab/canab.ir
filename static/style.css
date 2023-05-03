@@ -5,3 +5,7 @@ body {
 }
 
 .important { color: #336699; }
+.main-img {
+    max-width: 100%;
+    margin: 5px;
+}
