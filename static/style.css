@@ -8,4 +8,6 @@ body {
 .main-img {
     max-width: 100%;
     margin: 5px;
+    object-fit: cover;
+    border-radius: 15px;
 }
